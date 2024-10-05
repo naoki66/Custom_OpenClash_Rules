@@ -51,6 +51,8 @@ DOMAIN-SUFFIX,core2.myqnapcloud.io
 DOMAIN,auth.api.myqnapcloud.com
 DOMAIN,edge.api.myqnapcloud.com
 DOMAIN,core2.api.myqnapcloud.com
+DOMAIN,analytics.api.myqnapcloud.com
+DOMAIN,analytics.api.myqnapcloud.io
 DOMAIN,auth.myqnapcloud.io
 DOMAIN,edge.myqnapcloud.io
 DOMAIN,core2.myqnapcloud.io
