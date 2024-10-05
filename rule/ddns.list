@@ -73,3 +73,5 @@ DOMAIN-KEYWORD,spk7.imnks.com
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,-synology
 DOMAIN-KEYWORD,ipify
+DOMAIN-KEYWORD,letsencrypt,DIRECT
+DOMAIN-SUFFIX,generationnexxxt.com,DIRECT
